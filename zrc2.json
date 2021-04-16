@@ -1,16 +1,9 @@
 [
     {
-      "name": "XSGD",
-      "symbol": "XSGD",
-      "decimals": 6,
-      "address": "zil1zu72vac254htqpg3mtywdcfm84l3dfd9qzww8t",
-      "testnetAddress": "zil10a9z324aunx2qj64984vke93gjdnzlnl5exygv"
-    },
-    {
-      "name": "ZilPay wallet",
-      "symbol": "ZLP",
-      "decimals": 18,
-      "address": "zil1l0g8u6f9g0fsvjuu74ctyla2hltefrdyt7k5f4",
-      "testnetAddress": "zil1du93l0dpn8wy40769raza23fjkvm868j9rjehn"
+      "name": "Sparda Project Tokens",
+      "symbol": "SPT",
+      "decimals": 2,
+      "address": "zil13lm4plm8dmpx6cn92aj8ecqveu9thjn6h6zrq4",
+      "testnetAddress": ""
     }
 ]
